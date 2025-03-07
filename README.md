@@ -4,13 +4,12 @@ Bem-vindo ao repositório do portfólio digital para a disciplina de Interação
 Este repositório foi criado para documentar, organizar e compartilhar os conteúdos, materiais e exercícios desenvolvidos ao longo do semestre. O objetivo é facilitar o acompanhamento das aulas e manter um histórico bem estruturado do progresso na disciplina.
 
 # Estrutura do portfólio
-Cada pasta no repositório representa uma aula da disciplina que eu tenha comparecido, com materiais específicos de cada sessão. Abaixo, descrevemos brevemente o conteúdo disponível em cada pasta:
+Cada arquivo no repositório representa uma aula da disciplina que eu tenha comparecido, com materiais específicos de cada sessão.
   
-Dentro de cada pasta, você encontrará:
+Dentro do portifolio, você encontrará:
 
 -    README.md: Um resumo dos temas abordados e principais tópicos discutidos na aula.
--    Material de Aula: Arquivos PDF, slides ou anotações que suportam o conteúdo apresentado.
--    Exercícios e Projetos: Arquivos relacionados aos exercícios práticos e atividades de cada aula. Os formatos variam de acordo com a necessidade da atividade (códigos, diagramas, documentos Word, etc.).
+-    Arquivos diarios com uma descrição da aula frequentada.
 
 # Objetivos do Portfólio
 Este portfólio foi desenvolvido com os seguintes objetivos:
